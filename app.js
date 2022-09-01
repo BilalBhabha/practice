@@ -82,10 +82,10 @@
 // document.write("<br>");
 // document.write("The remainder is : 0")
 
-var a = 600;
-var b = 5;
-var c =a*b;
-alert(c)
-document.write("<h1>");
-document.write("Total cost to buy 5 ticket to a movie is 3000PKR")
+// var a = 600;
+// var b = 5;
+// var c =a*b;
+// alert(c)
+// document.write("<h1>");
+// document.write("Total cost to buy 5 ticket to a movie is 3000PKR")
 // ending
