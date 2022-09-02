@@ -97,6 +97,8 @@
 
 // document.write("<h3>Result :<br>The value of a is: 10 <br> <br> ............................<br><br><br>The value of ++a is: 11 <br>Now the Value of a is:11<br><br><br>The value of ++a is: 11 <br>Now the Value of a is:12<br><br><br>The value of --a is: 11 <br>Now the Value of a is:11<br><br><br>The value of --a is: 11 <br>Now the Value of a is:10")
 
-
-
+var a = 2, b = 1;
+var b = --a - --b + ++b + b--;
+document.write("<h3>var a = 2, b = 1; var <br> result = --a - --b + ++b + b--;<br>Result is: ")
+document.write(b)
 // ending
